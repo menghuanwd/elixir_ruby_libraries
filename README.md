@@ -2,6 +2,7 @@
 
 |  | Ruby | Elixir |
 | --- | --- | --- |
+| framework | rails | phoenix |
 | cron | sidekiq-scheduler | quantum |
 | queue | sidekiq、sidekiq-pro | oban、oban-web、oban-pro |
 | http | faraday、rest-client | httpposion |
