@@ -3,8 +3,8 @@
 |  | Ruby | Elixir |
 | --- | --- | --- |
 | framework | rails | phoenix |
-| cron | sidekiq-scheduler | quantum |
 | queue | sidekiq、sidekiq-pro | oban、oban-web、oban-pro |
+| cron | sidekiq-scheduler | quantum |
 | http | faraday、rest-client | httpposion |
 | datetime | ActiveSupport | timex |
 | orm | ActiveRecord | ecto |
