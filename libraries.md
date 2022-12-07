@@ -1,0 +1,20 @@
+# Libraries
+
+|  | Ruby | Elixir |
+| --- | --- | --- |
+| framework | rails | phoenix |
+| queue | sidekiq、sidekiq-pro | oban、oban-web、oban-pro |
+| cron | sidekiq-scheduler | quantum |
+| http | faraday、rest-client | httpposion |
+| datetime | ActiveSupport | timex |
+| orm | ActiveRecord | ecto |
+| html_parse | nokogiri | floki |
+| swagger doc | rswag | phoenix_swagger |
+| json | oj | jason |
+| code style | rubocop | credo |
+| test | rspec | ex_unit、espec |
+| test mock | webmock | bypass、mox、mock |
+| pagination | kaminari | scrivener_ecto |
+| redis | redis | redix |
+| postgresql | postgres | postgrex |
+| graphql | graphql | absinthe、absinthe_plug |
