@@ -23,10 +23,3 @@ mix ecto.gen.migration create_users
 rails g model user nickname:string
 mix phx.gen.json Database Bank banks name:string:unique
 ```
-
-## Environment
-
-```shell
-MIX_ENV
-RAILS_ENV
-```
